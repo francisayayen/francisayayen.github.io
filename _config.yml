@@ -22,8 +22,8 @@ avatar_image: /img/profile_picture.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/fray1st/" # Add your linkedln handle
-github: "https://github.com/fray6c/"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/francisayayen/" # Add your linkedln handle
+github: "https://github.com/francisayayen/"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
